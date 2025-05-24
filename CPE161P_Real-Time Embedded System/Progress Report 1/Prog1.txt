@@ -1,0 +1,75 @@
+create a C++ arduino code using this information:
+
+•	Arduino Uno – The main microcontroller to control all components.
+
+•	2 Servo Motors –
+Servo 1: Picks up caps from the storage and moves them to the color sensor.
+Servo 2: Routes the caps to their respective containers based on color.
+•	Color Sensor (e.g., TCS3200 or TCS34725) – Identifies the color of each cap.
+•	LCD Display (16x2) – Displays the number of caps sorted per color.
+•	4x4 Keypad – Allows manual control of the sorting process.
+•	Colored Caps (3 Colors) – The items to be sorted (e.g., red, green, blue caps).
+•	LEDs (Optional) – Indicate different states like sorting status or errors.
+•	Resistors (220Ω, 10k) – For current limiting and pull-down configurations.
+•	Jumper Wires – To connect all components on the breadboard.
+•	Breadboard– For circuit assembly and prototyping.
+•	Sorting Containers (3 Pieces) – Separate containers for each color.
+•	Power Supply (5V or USB) – To power the Arduino and components.
+•	Laptop with Arduino IDE – For programming and uploading the code.
+
+
+create a C++ arduino code using this information:
+
+ create a 2 modes in the automatic and the manual, this will be displayed in the LCD which allow the
+ user to choose which mode to be performed. In manual mode, the servo1 will rotate to a 90 degree
+ angle and will stay there when I pressed number 1 in the 4x4 keypad, however if I press number 2 the
+ servo1 will rotate from a 90 degree angle to 180 degrees angle away from 0. If press number 4 in the keypad it will rotate the servo2 to angle 0
+, if I press number 5 servo2 will rotate to a 90 degree angle, and if I press number 6 the servo2 will
+rotate from 90 degree zngle to a 180 degree angle away from angle 0. However, if the user chose the automatic mode if will automate the
+process the servo1 will rotate from 0 angle to 180 after it rotates to 180, the servo2 will rotate
+from 0 angle to 180 degree angle after that it will repeat the process from servo1 again continuously.
+I addition the mode will display on a LCD which shows the current mode. Don't use any library for the 4x4 keypad and servo motor.
+
+based the code to this:
+
+  
+#include <LiquidCrystal_I2C.h>
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+const char keys[rows][cols] = {
+  {'D', '*', '0','#'},
+  {'C', '9', '8','7'},
+  {'B', '6', '5','4'},
+  {'A', '3', '2','1'}
+};
+
+const int servoPin1 = 6 ;
+const int servoPin2 = 7 ;
+
+
+char rowPins[rows] = {4, 5, A3, A2};
+char colPins[cols] = {A1, A0, 2, 3};
+
+void setup() {
+ Serial.begin(9600);
+ Serial.println("System Starting");
+ dht.begin();
+ lcd.init();
+ lcd.backlight();
+ delay(1000);
+ lcd.setCursor(0, 0);
+ lcd.print(" Initializing");
+ lcd.setCursor(0, 1);
+ lcd.print("System is On");
+ for(int a = 12; a <= 15; a++){
+  lcd.setCursor(a, 1);
+  lcd.print(".");
+  delay(1500);
+ }
+ lcd.clear();
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
