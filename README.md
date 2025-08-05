@@ -1,2 +1,2 @@
-# EmbeddedSystemsProjects
+# EmbeddedSystemsIndividualProjects
 
