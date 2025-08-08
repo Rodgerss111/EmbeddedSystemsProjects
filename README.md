@@ -18,7 +18,7 @@ An IoT-based system using Arduino, HX711, servo motors, and ESP32 to classify eg
 ### 2. [Other Strong Project Title]
 Brief 1–2 line description.
 
-[View Project Folder](./Project-02_[ProjectName])
+[[View Project Folder](./Project-02_[ProjectName])](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/f381f3e07c3974842071f5bbfea0202e850fbbc6/Project-02_Dual%20Mode%20Real-Time%20Cap%20Sorting%20System%20Using%20Arduino%20Uno)
 
 ## 🧪 Experiment Highlights
 I’ve completed 20+ embedded experiments involving LCDs, ultrasonic sensors, load cells, rotary encoders, servos, and Wi-Fi integration.  
