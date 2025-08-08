@@ -15,6 +15,8 @@ An IoT-based system using Arduino, HX711, servo motors, and ESP32 to classify eg
 
 [[Project-01_SmartEgg Grader A Weight Sensor-Based IoT Egg](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/e292969660788776430184e4b775dc2c615b9c20/Project-01_SmartEgg%20Grader%20A%20Weight%20Sensor-Based%20IoT%20Egg)](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/e292969660788776430184e4b775dc2c615b9c20/Project-01_SmartEgg%20Grader%20A%20Weight%20Sensor-Based%20IoT%20Egg)
 
+Project-01_SmartEgg Grader A Weight Sensor-Based IoT Egg
+
 ### 2. Dual Mode Real-Time Cap Sorting System Using Arduino Uno
 Brief 1–2 line description.
 
