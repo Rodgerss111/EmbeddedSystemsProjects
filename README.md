@@ -1,4 +1,4 @@
-# EmbeddedSystemsIndividualProjects
+# Embedded Systems Individual Projects
 
 Hi! I’m Rod Geryk Navarro, a Computer Engineering student specializing in Embedded Systems.
 
