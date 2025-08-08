@@ -22,4 +22,4 @@ Brief 1–2 line description.
 
 ## 🧪 Experiment Highlights
 I’ve completed 20+ embedded experiments involving LCDs, ultrasonic sensors, load cells, rotary encoders, servos, Wi-Fi integration,and etc.  
-View compilation: [Experiments Overview](./Experiments-Summary/README.md)
+View compilation: [[Experiments Overview](./Experiments-Summary/README.md)](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/7d24a9abb38217916f3cf6f86e6e9d1659e726e6/Summary%20of%20Experiments)
