@@ -1,1 +1,25 @@
 # EmbeddedSystemsIndividualProjects
+
+Hi! I’m Rod Geryk Navarro, a Computer Engineering student specializing in Embedded Systems.
+
+This repository showcases selected projects and experiments from my course in:
+
+- 🔧 Embedded System Design
+- 📡 Embedded Systems with IoT
+- ⏱️ Real-Time Embedded Systems
+
+## 📌 Highlight Projects
+
+### 1. Smart Egg Grading System (IoT + Automation)
+An IoT-based system using Arduino, HX711, servo motors, and ESP32 to classify eggs by weight, display data on LCDs, and send data to ThingSpeak for cloud monitoring.
+
+[View Project Folder](./Project-01_SmartEggGrader)
+
+### 2. [Other Strong Project Title]
+Brief 1–2 line description.
+
+[View Project Folder](./Project-02_[ProjectName])
+
+## 🧪 Experiment Highlights
+I’ve completed 20+ embedded experiments involving LCDs, ultrasonic sensors, load cells, rotary encoders, servos, and Wi-Fi integration.  
+View summary: [Experiments Overview](./Experiments-Summary/README.md)
