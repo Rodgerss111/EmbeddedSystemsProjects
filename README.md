@@ -24,4 +24,4 @@ This project is a real-time Arduino-based bottle cap sorter with automatic and m
 ## 🧪 Experiment Highlights
 I’ve completed 20+ embedded experiments involving Embedded Systems with IoT, Real-Time Embedded Systems, and Embedded System Design.  
 
-View compilation: [Experiments Overview]([./Summary of Experiments](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/422f7eb72e7c01c6bc28a348db2a7b784059467c/Summary%20of%20Experiments))
+View compilation: [Experiments Overview]([Summary of Experiments](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/11f57e10fe45450d88df01d1f408a97614178385/Summary%20of%20Experiments)
