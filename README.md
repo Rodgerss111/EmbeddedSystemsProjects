@@ -12,12 +12,12 @@ This repository showcases selected individual projects and experiments:
 ## 📌 Highlight Projects
 
 ### 1. Smart Egg Grading System (IoT + Automation)
-An IoT-based system using Arduino and ESP32 to classify eggs by weight, display data on LCDs, and send data to ThingSpeak for cloud monitoring.
+An IoT-based system using Arduino and ESP32 to classify eggs by weight, display data on LCDs, send data to ThingSpeak for cloud monitoring, and voice features to update users.
 
 [View Project Folder]([Project-01_SmartEgg Grader A Weight Sensor-Based IoT Egg](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/main/Project-01_SmartEgg%20Grader%20A%20Weight%20Sensor-Based%20IoT%20Egg))
 
 ### 2. Dual Mode Real-Time Cap Sorting System Using Arduino Uno
-This project is a real-time Arduino-based bottle cap sorter with automatic and manual modes, using a color sensor, servo, and LCD for efficient small-scale waste management.
+This project is a real-time Arduino-based bottle cap sorter with automatic and manual modes, using a color sensor, keypad, servo, and LCD for efficient small-scale waste management.
 
 [View Project Folder]([Project-02_Dual Mode Real-Time Cap Sorting System Using Arduino Uno](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/main/Project-02_Dual%20Mode%20Real-Time%20Cap%20Sorting%20System%20Using%20Arduino%20Uno))
 
