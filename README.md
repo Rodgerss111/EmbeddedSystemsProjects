@@ -2,7 +2,7 @@
 
 Hi! I’m Rod Geryk Navarro, a Computer Engineering student specializing in Embedded Systems.
 
-This repository showcases selected individual projects and experiments from my course in:
+This repository showcases selected individual projects and experiments:
 
 - 📡 Embedded Systems with IoT
 - ⏱️ Real-Time Embedded Systems
