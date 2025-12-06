@@ -1,4 +1,5 @@
 # Dual Mode Real-Time Cap Sorting System Using Arduino Uno
+This project is a real-time Arduino-based bottle cap sorter with automatic and manual modes, using a color sensor, keypad, servo, and LCD for efficient small-scale waste management.
 
 <img width="523" height="312" alt="image" src="https://github.com/user-attachments/assets/8b60b5b7-f9a4-4a5b-9384-6d793d70b40b" />
 
