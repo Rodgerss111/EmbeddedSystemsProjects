@@ -1,4 +1,5 @@
 # SmartEgg Grader: A Weight Sensor-Based IoT Egg Sorting System with Voice Features
+An IoT-based system using Arduino and ESP32 to classify eggs by weight, display data on LCDs, send data to ThingSpeak for cloud monitoring, and voice features to update users.
 
 <img width="541" height="305" alt="image" src="https://github.com/user-attachments/assets/bd6324a5-175c-4206-b382-26a40786b1bd" />
 
