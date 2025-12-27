@@ -1,8 +1,7 @@
 # Dual Mode Real-Time Cap Sorting System Using Arduino Uno
 This project is a real-time Arduino-based bottle cap sorter with automatic and manual modes, using a color sensor, keypad, servo, and LCD for efficient small-scale waste management.
 
-
-[Click here for the complete documentation of the prototype]([ Docs Folder ](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/main/Project-01_SmartEgg%20Grader%20A%20Weight%20Sensor-Based%20IoT%20Egg/docs))
+[Click here for the complete documentation of the prototype]([ Docs Folder ](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/main/Project-02_Dual%20Mode%20Real-Time%20Cap%20Sorting%20System%20Using%20Arduino%20Uno/docs))
 
 <img width="523" height="312" alt="image" src="https://github.com/user-attachments/assets/8b60b5b7-f9a4-4a5b-9384-6d793d70b40b" />
 
@@ -15,3 +14,6 @@ This project is a real-time Arduino-based bottle cap sorter with automatic and m
 <img width="360" height="191" alt="image" src="https://github.com/user-attachments/assets/87106f1c-583f-4b50-a503-2dccb4afb05c" />
 
 <img width="406" height="226" alt="image" src="https://github.com/user-attachments/assets/4ebc4f8f-de59-4dfb-8051-315093a3063b" />
+
+
+[Click here for the complete documentation of the prototype]([ Docs Folder ](https://github.com/Rodgerss111/EmbeddedSystemsProjects/tree/main/Project-02_Dual%20Mode%20Real-Time%20Cap%20Sorting%20System%20Using%20Arduino%20Uno/docs))
